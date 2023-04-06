@@ -13,9 +13,9 @@
   font-size: 62.5%;
   --background:rgb(2, 17, 39);
   --yellow:rgb(255, 214, 10);
-  --white: white;
-  --black:black;
-  --svg-red:red;
+  --white: #ffffff;
+  --black:#000000;
+  --svg-red:#ff0000;
   --svg-yellow:rgb(226, 226, 81);
 
 }
